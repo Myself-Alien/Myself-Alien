@@ -1,7 +1,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>👋 Hi, @Myself-Alien</p>
-    <p>Talk about - HTML, CSS, Javascript, PHP, MySql, ReactJs, Node.js, Express.js & MongoDB... Wish to learn C# for game dev. </p>
+    <p>Talk about - HTML, CSS, Javascript, PHP, ReactJs, Node.js, Express.js & MySql, MongoDB... Wish to learn C# for game dev. </p>
 </div>
 
 
