@@ -1,7 +1,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>👋 Hi, @Myself-Alien</p>
-    <p>Talk about - HTML, CSS, Bootstrap, Javascript, PHP, ReactJs, Node.js, Express.js, MySql, MongoDB... Wish to learn C# </p>
+    <p>Talk about - HTML, CSS, Bootstrap, Javascript, PHP, ReactJs, Node.Js, Express.Js, MySql, MongoDB... Wish to learn C# </p>
 </div>
 
 
