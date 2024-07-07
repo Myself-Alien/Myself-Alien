@@ -1,6 +1,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>👋 Hi, @Myself-Alien</p>
+    <p>HTML,CSS,Javascript, PHP, MySql,ReactJs, Node.js, Wish to learn C# for game dev. </p>
 </div>
 
 
