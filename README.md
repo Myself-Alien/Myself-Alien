@@ -1,6 +1,6 @@
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>👋 Hi, I’m @Myself-Alien</p>
+    <p>👋 Hi, @Myself-Alien</p>
 </div>
 
 
