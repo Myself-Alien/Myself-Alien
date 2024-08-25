@@ -2,7 +2,7 @@
     <h2>🚀 About Me</h2>
     <p>👋 Hi, @Myself-Alien</p>
     <p>Talk about - HTML, CSS, Bootstrap,Tailwind CSS, Javascript, PHP, MySql...</p>
-     <p>Currently learning Full-Stack Javascript Development</p>
+     <p>Currently learning Full-Stack Web Development</p>
 </div>
 
 
