@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Myself-Alien</h1>
+<h1 align="center">Hi 👋, me Myself-Alien</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myself-alien&label=Profile%20views&color=0e75b6&style=flat" alt="myself-alien" /> </p>
