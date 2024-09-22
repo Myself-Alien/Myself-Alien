@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **myselfalien@duck.com**
 
-- ⚡ Fun fact **I Play Minecraft :)**
+- ⚡ Fun fact **I Play Minecraft Everyday :) :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
