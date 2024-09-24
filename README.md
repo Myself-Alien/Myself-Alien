@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/myself_alien" target="blank"><img src="https://img.shields.io/twitter/follow/myself_alien?logo=twitter&style=for-the-badge" alt="myself_alien" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **NodeJs**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap,Tailwind CSS, Javascript, PHP, MySql**
 
