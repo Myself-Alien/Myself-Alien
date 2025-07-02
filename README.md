@@ -8,6 +8,9 @@
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, Javascript, React, Nodejs, MongoDB, PHP, MySql**
 
+💼 Looking for Remote Roles 🌐
+Passionate about developing with React and open to exciting remote opportunities. Let's build something amazing together!
+
 - 📫 How to reach me **myselfalien@duck.com**
 
 
